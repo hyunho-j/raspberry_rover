@@ -1,0 +1,1 @@
+don't read or write any files outside the directory sr2/robot.
